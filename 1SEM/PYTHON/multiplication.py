@@ -4,6 +4,8 @@ C = int(input("Enter the number of columns:"))
 X = []
 
 print("Enter First matrix the entries row wise:")
+
+a = []
   
 for i in range(R):          
     for j in range(C):      
